@@ -40,7 +40,7 @@ const ListProduct = () => {
                             <td>{item.dec}</td>
                             <td>
                                 <button onClick={() => onhandelRemove(item.id)}>xoá</button>
-                                <button><Link to={`/edit/${item.id}`}>suửa</Link></button>
+                                <button><Link to={`/edit/${item.id}`}>sửa</Link></button>
                             </td>
                         </tr>
                     ))}

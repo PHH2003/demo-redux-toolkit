@@ -2,7 +2,7 @@ import {Routes, Route} from "react-router-dom"
 import ListProduct from "./components/ListProduct"
 import AddProduct from "./components/AddProduct"
 import UpdateProduct from "./components/UpdateProduct"
-
+import './App.css'
 function App() {
 
 

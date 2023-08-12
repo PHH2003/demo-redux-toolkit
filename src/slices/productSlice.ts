@@ -3,7 +3,7 @@ import { addProduct, deleteProduct, getAllproduct, updateProduct } from '../acti
 
 
 const initialState = {
-  product: []
+  products: []
 }
 
 const productSlice = createSlice({

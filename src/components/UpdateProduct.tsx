@@ -88,7 +88,7 @@ const EditProduct = () => {
 
                 <Form.Item wrapperCol={{ offset: 8, span: 16 }}>
                     <Button type="primary" htmlType="submit">
-                        thêm sản phẩm
+                        sửa sản phẩm
                     </Button>
                 </Form.Item>
             </Form>
